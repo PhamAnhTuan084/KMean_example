@@ -1,6 +1,7 @@
 openpyxl
 scikit-learn
 streamlit
+base64
 pandas
 openpyxl
 warnings
