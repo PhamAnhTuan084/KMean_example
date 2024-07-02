@@ -1,0 +1,12 @@
+openpyxl
+scikit-learn
+streamlit
+pandas
+openpyxl
+warnings
+numpy
+geopy
+folium
+osmnx
+geopandas
+shapely
